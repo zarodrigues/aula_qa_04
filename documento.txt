@@ -1,2 +1,7 @@
 projeto para aula de qualidade e testes de software
+
 aula e QA
+
+
+mudado aqui
+
