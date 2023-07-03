@@ -3,4 +3,8 @@ aula e QA
 mudado aqui
 projeto quase concluido
 projeto concluido
+<<<<<<< Updated upstream
 analise do PO
+=======
+analise do QA
+>>>>>>> Stashed changes
