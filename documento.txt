@@ -2,3 +2,5 @@ projeto para aula de qualidade e testes de software
 aula e QA
 mudado aqui
 projeto quase concluido
+projeto concluido
+analise do PO
